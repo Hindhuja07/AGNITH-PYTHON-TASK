@@ -1,0 +1,828 @@
+entry
+"
+PMID- 40636879
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250710
+LR  - 20250710
+IS  - 2296-2565 (Electronic)
+IS  - 2296-2565 (Linking)
+VI  - 13
+DP  - 2025
+TI  - COVID-19 vaccine acceptance and associated factors among parents of children 
+      between 6 and 12 years: a multicenter mixed method study in India.
+PG  - 1513419
+LID - 10.3389/fpubh.2025.1513419 [doi]
+AB  - BACKGROUND: It is well recognized that parents play a central role in making 
+      decisions for their children. Understanding willingness of parents to vaccinate 
+      their children against COVID-19 is important as it helps to develop effective 
+      strategies for maximizing vaccination coverage. We aimed to evaluate parental 
+      acceptance regarding COVID-19 vaccination for children between 6 and 12 years of 
+      age in India. METHODS: A mixed-method study (March-September 2023) employed a 
+      structured questionnaire and in-depth interviews with parents of school-going and 
+      non-school-going children across five purposively selected Indian states. 
+      Multistage random sampling was used for districts, schools, and students, while 
+      convenience sampling was applied for qualitative data. Multivariable logistic 
+      regression assessed factors influencing parental acceptance of COVID-19 
+      vaccination, and qualitative analysis identified barriers and facilitators. 
+      RESULTS: A total of 2017 parents participated in the study. The overall parental 
+      acceptance to vaccinate their children against COVID-19 was 76.4%. Multivariate 
+      logistic regression analysis showed that parents who were literate (p = 0.004), 
+      not vaccinated against COVID-19 (p = 0.012), had less than or equal to four 
+      family members (p < 0.001) and a history of COVID-19 infection in the family 
+      (p = 0.036) were less likely to accept the COVID-19 vaccine for their children. 
+      Key barriers to vaccination included uncertainty over the protection provided by 
+      the vaccine, fear about side effects, and misconceptions about the vaccine 
+      whereas belief in the vaccine, perceived severity of COVID-19 disease, and 
+      bundling with routine vaccination were the key facilitators. CONCLUSION: These 
+      findings highlight the importance of increasing adult COVID-19 vaccination. 
+      Developing policies focusing on parents with higher literacy, staying in smaller 
+      families, and previous COVID-19 infection among family members will help to 
+      increase the vaccine uptake among children. Interventions for the integration of 
+      these vaccines with routine immunization or availability at schools may help in 
+      increasing COVID-19 vaccine acceptance.
+CI  - Copyright (c) 2025 Ghate, Rekhadevi, Sen, Sharma, Shidhaye, Nair, Kumar, Jayesh, 
+      Patil, Gurav and Aggarwal.
+FAU - Ghate, Manisha
+AU  - Ghate M
+AD  - National AIDS Research Institute, Pune, India.
+FAU - Rekhadevi, Kangjam
+AU  - Rekhadevi K
+AD  - Regional Medical Research Centre (ICMR), Dibrugarh, India.
+FAU - Sen, Abhik
+AU  - Sen A
+AD  - Rajendra Memorial Research Institute of Medical Sciences, Patna, India.
+FAU - Sharma, Saurabh
+AU  - Sharma S
+AD  - Indian Council of Medical Research (ICMR), New Delhi, India.
+FAU - Shidhaye, Pallavi
+AU  - Shidhaye P
+AD  - National AIDS Research Institute (ICMR), Pune, India.
+FAU - Nair, Saritha
+AU  - Nair S
+AD  - Indian Council of Medical Research (ICMR), New Delhi, India.
+FAU - Kumar, Ashish
+AU  - Kumar A
+AD  - Rajendra Memorial Research Institute of Medical Sciences, Patna, India.
+FAU - Jayesh, Pournami
+AU  - Jayesh P
+AD  - National AIDS Research Institute (ICMR), Pune, India.
+FAU - Patil, Sandip
+AU  - Patil S
+AD  - National AIDS Research Institute (ICMR), Pune, India.
+FAU - Gurav, Shraddha
+AU  - Gurav S
+AD  - National AIDS Research Institute (ICMR), Pune, India.
+FAU - Aggarwal, Sumit
+AU  - Aggarwal S
+AD  - Indian Council of Medical Research (ICMR), New Delhi, India.
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+DEP - 20250625
+PL  - Switzerland
+TA  - Front Public Health
+JT  - Frontiers in public health
+JID - 101616579
+RN  - 0 (COVID-19 Vaccines)
+SB  - IM
+MH  - Humans
+MH  - India/epidemiology
+MH  - *Parents/psychology
+MH  - *COVID-19 Vaccines/administration & dosage
+MH  - Child
+MH  - *COVID-19/prevention & control
+MH  - Male
+MH  - Female
+MH  - Adult
+MH  - *Patient Acceptance of Health Care/statistics & numerical data/psychology
+MH  - Surveys and Questionnaires
+MH  - Middle Aged
+MH  - *Vaccination Hesitancy/statistics & numerical data/psychology
+MH  - *Vaccination/psychology/statistics & numerical data
+MH  - SARS-CoV-2
+MH  - Health Knowledge, Attitudes, Practice
+PMC - PMC12237963
+OTO - NOTNLM
+OT  - COVID-19 vaccine
+OT  - India
+OT  - mixed methods
+OT  - parents
+OT  - vaccine acceptance
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:28
+CRDT- 2025/07/10 05:09
+PHST- 2025/07/10 06:28 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2024/10/18 00:00 [received]
+PHST- 2025/06/04 00:00 [accepted]
+PHST- 2025/07/10 05:09 [entrez]
+AID - 10.3389/fpubh.2025.1513419 [doi]
+PST - epublish
+SO  - Front Public Health. 2025 Jun 25;13:1513419. doi: 10.3389/fpubh.2025.1513419. 
+      eCollection 2025.
+"
+"
+PMID- 40636536
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250710
+IS  - 2398-8835 (Electronic)
+IS  - 2398-8835 (Linking)
+VI  - 8
+IP  - 7
+DP  - 2025 Jul
+TI  - COVID-19 and Influenza Vaccine Uptake Among Nurses and Children Living in Their 
+      Households: A Cross-Sectional Study.
+PG  - e71018
+LID - 10.1002/hsr2.71018 [doi]
+AB  - BACKGROUND: Children are at lower risk from influenza and COVID-19 than other age 
+      groups, but they can still be affected. Some adults, including healthcare 
+      workers, developed negative attitudes toward COVID-19 vaccines during the 
+      COVID-19 pandemic, which might lead to lowered pediatric vaccine uptake. We 
+      investigated COVID-19 and seasonal flu vaccine uptake among nurses and children 
+      living in their households. METHODS: Using contact information from the state 
+      professional licensing body, we recruited 677 nurses from South Dakota with 
+      children living in their households to participate in an online survey. Data were 
+      collected in May 2024. The survey included questions regarding parental and 
+      pediatric vaccine uptake and social and political factors associated with vaccine 
+      hesitancy. We used logistic regression to analyze the data. RESULTS: We found 
+      that 64% were vaccinated for influenza and 18% of children were vaccinated for 
+      COVID-19. The pediatric uptake of both vaccines was associated with parental 
+      COVID-19 vaccination status and partially with influenza vaccination status. 
+      Nurses who identified with the Republican Party reported lowered vaccination 
+      rates for children living in their households. CONCLUSIONS: Overall, we found low 
+      COVID-19 and flu vaccination rates among children in our sample.
+CI  - (c) 2025 The Author(s). Health Science Reports published by Wiley Periodicals LLC.
+FAU - Viskupic, Filip
+AU  - Viskupic F
+AUID- ORCID: 0000-0003-1096-325X
+AD  - Department of Political Science Iowa State University Ames Iowa USA.
+FAU - Wiltse, David L
+AU  - Wiltse DL
+AUID- ORCID: 0000-0002-6928-4246
+AD  - School of American and Global Studies South Dakota State University Brookings 
+      South Dakota USA.
+FAU - Stenvig, Thomas E
+AU  - Stenvig TE
+AUID- ORCID: 0000-0003-2648-4392
+AD  - College of Nursing South Dakota State University Brookings South Dakota USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250709
+PL  - United States
+TA  - Health Sci Rep
+JT  - Health science reports
+JID - 101728855
+PMC - PMC12239152
+OTO - NOTNLM
+OT  - COVID-19 vaccination
+OT  - healthcare workers
+OT  - influenza vaccination
+OT  - pediatric vaccine hesitancy
+OT  - political partisanship
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:28
+CRDT- 2025/07/10 05:05
+PHST- 2025/07/10 06:28 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2024/11/21 00:00 [received]
+PHST- 2025/04/25 00:00 [revised]
+PHST- 2025/06/03 00:00 [accepted]
+PHST- 2025/07/10 05:05 [entrez]
+AID - HSR271018 [pii]
+AID - 10.1002/hsr2.71018 [doi]
+PST - epublish
+SO  - Health Sci Rep. 2025 Jul 9;8(7):e71018. doi: 10.1002/hsr2.71018. eCollection 2025 
+      Jul.
+"
+"
+PMID- 40636320
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250710
+IS  - 2773-0654 (Electronic)
+IS  - 2773-0654 (Linking)
+VI  - 4
+IP  - 4
+DP  - 2025 Aug
+TI  - Self-Reported Behavior Change After a Positive COVID-19 Test Result.
+PG  - 100367
+LID - 10.1016/j.focus.2025.100367 [doi]
+AB  - INTRODUCTION: U.S. investment in COVID-19 testing and diagnostics provided more 
+      than 1 billion tests to vulnerable populations across the nation; however, the 
+      impact of testing on behaviors that lead to transmission has not been previously 
+      assessed. METHODS: Outbreaks Near Me collects crowdsourced data from volunteer 
+      participants to help citizens and public health agencies identify hotspots for 
+      COVID-19. Outbreaks Near Me also collects data on what actions individuals take 
+      after testing positive for COVID-19. RESULTS: Data collection from November 2022 
+      through September 2023 showed that most people (75%) reported at least 2 
+      precautions to protect others from contracting COVID-19. The overwhelming 
+      majority of those who reported measures (81%) indicated that they will continue 
+      to practice those precautions until they have a negative test result or are at 
+      least 10 days after the initial positive result. In addition, receiving a 
+      positive test was the catalyst for 48% to seek medical care or COVID-19 
+      therapeutics, demonstrating that among this volunteer participant population, 
+      testing is impactful in preventing spread and adverse health outcomes from 
+      infection. Covariates included age, sex, race and ethnicity, comorbidities, 
+      vaccination status, and occupation in the healthcare industry. CONCLUSIONS: These 
+      results suggest that high proportion of individuals who tested positive for 
+      COVID-19 were likely to take precautions to protect others and to seek medical 
+      care or treatment. Overall, behavior change was found to be higher among those 
+      aged >65 years, among females, among those who received or intended to receive a 
+      booster vaccination, and among those with 2 or more comorbidities. Nearly half of 
+      individuals sought either medical care or treatment after testing. These findings 
+      support continued investment in testing and diagnostics to prevent and mitigate 
+      the spread of COVID-19 and emphasize the importance of testing and diagnostics as 
+      part of medical countermeasures' role in pandemic preparedness and response.
+CI  - (c) 2025 The Authors.
+FAU - Massoudi, Barbara L
+AU  - Massoudi BL
+AD  - The Center for Transforming Health, The MITRE Corporation, McLean, Virginia.
+FAU - McQueen, Matthew B
+AU  - McQueen MB
+AD  - Public Health, Environmental and Life Sciences, The MITRE Corporation, McLean, 
+      Virginia.
+FAU - Gertz, Autumn H
+AU  - Gertz AH
+AD  - Computational Epidemiology Lab, Boston Children's Hospital, Boston, 
+      Massachusetts.
+FAU - Sewalk, Kara C
+AU  - Sewalk KC
+AD  - Computational Epidemiology Lab, Boston Children's Hospital, Boston, 
+      Massachusetts.
+FAU - Brownstein, John S
+AU  - Brownstein JS
+AD  - Computational Epidemiology Lab, Boston Children's Hospital, Boston, 
+      Massachusetts.
+AD  - Department of Pediatrics and Biomedical Informatics, Harvard Medical School, 
+      Boston, Massachusetts.
+LA  - eng
+PT  - Journal Article
+DEP - 20250509
+PL  - United States
+TA  - AJPM Focus
+JT  - AJPM focus
+JID - 9918487585606676
+PMC - PMC12240072
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Infectious diseases
+OT  - health behaviors
+OT  - primary prevention
+OT  - testing and diagnostics
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:28
+CRDT- 2025/07/10 05:02
+PHST- 2025/07/10 06:28 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2025/07/10 05:02 [entrez]
+AID - S2773-0654(25)00055-0 [pii]
+AID - 10.1016/j.focus.2025.100367 [doi]
+PST - epublish
+SO  - AJPM Focus. 2025 May 9;4(4):100367. doi: 10.1016/j.focus.2025.100367. eCollection 
+      2025 Aug.
+"
+"
+PMID- 40636157
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250710
+IS  - 2186-6953 (Print)
+IS  - 2186-3342 (Linking)
+VI  - 44
+IP  - 3
+DP  - 2025
+TI  - Optimization of growth conditions and the inducer concentration for increasing 
+      spike protein expression in recombinant Lactococcus lactis and its kinetic 
+      modeling.
+PG  - 227-234
+LID - 10.12938/bmfh.2024-110 [doi]
+AB  - Lactococcus lactis bacterium can be genetically modified to transport the spike 
+      protein from SARS-CoV-2, making it a potential candidate for a COVID-19 mucosal 
+      vaccine. This study aimed to optimize the nisin concentration, pH, incubation 
+      time, and media composition to induce spike protein expression. The 
+      concentrations of nisin used in this study ranged from 0 to 40 ng/mL, the 
+      incubation period was 3 to 24 hr, and the pH of the growth media ranged from 4 to 
+      8. The media was also supplemented with various yeast extract and sucrose 
+      concentrations. The highest protein band intensity was observed at a 
+      concentration of 40 ng/mL and an incubation period of 9 hr. Supplementation with 
+      4% w/v yeast extract and 6% w/v sucrose significantly increased the expression of 
+      HCR spike protein. In silico simulation suggested a maximal protein band 
+      intensity of 70.95 arbitrary units, while the nisin concentration needed to 
+      produce half the maximal protein band intensity was estimated to be 9.599 ng/mL. 
+      No significant difference in spike protein expression was found between pH 
+      variations. The media composition, inducer, and incubation time strongly affect 
+      the spike protein expression.
+CI  - (c)2025 BMFH Press.
+FAU - Mubarak, Termidzi Husni
+AU  - Mubarak TH
+AD  - Department of Pharmacy, Medical Faculty, Universitas Brawijaya, Jalan Veteran, 
+      Malang, 65145, East Java, Indonesia.
+FAU - Maulita, Silvia
+AU  - Maulita S
+AD  - Department of Pharmacy, Medical Faculty, Universitas Brawijaya, Jalan Veteran, 
+      Malang, 65145, East Java, Indonesia.
+FAU - Adianingsih, Oktavia Rahayu
+AU  - Adianingsih OR
+AD  - Department of Pharmacy, Medical Faculty, Universitas Brawijaya, Jalan Veteran, 
+      Malang, 65145, East Java, Indonesia.
+FAU - Tebbens, Jurjen Duintjer
+AU  - Tebbens JD
+AD  - Department of Biophysics and Physical Chemistry, Faculty of Pharmacy in Hradec 
+      Kralove, Charles University, Akademika Heyrovskeho 1203/8, 500 03 Hradec Kralove, 
+      Czech Republic.
+AD  - Department of Artificial Intelligence, Institute of Computer Science of the Czech 
+      Academy of Sciences, Pod Vodarenskou vezi 271/2, 182 00 Praha 8-Liben, Czech 
+      Republic.
+FAU - Shimosato, Takeshi
+AU  - Shimosato T
+AD  - Department of Pharmacy, Medical Faculty, Universitas Brawijaya, Jalan Veteran, 
+      Malang, 65145, East Java, Indonesia.
+AD  - Laboratory of Molecular Biotechnology, Institute for Aqua Regeneration, Shinshu 
+      University, 8304 Minamiminowa, Kamiina, Nagano 399-4598, Japan.
+FAU - Yurina, Valentina
+AU  - Yurina V
+AD  - Department of Pharmacy, Medical Faculty, Universitas Brawijaya, Jalan Veteran, 
+      Malang, 65145, East Java, Indonesia.
+LA  - eng
+PT  - Journal Article
+DEP - 20250421
+PL  - Japan
+TA  - Biosci Microbiota Food Health
+JT  - Bioscience of microbiota, food and health
+JID - 101578264
+PMC - PMC12236166
+OTO - NOTNLM
+OT  - Lactococcus lactis
+OT  - Michaelis-Menten estimation
+OT  - coronavirus infectious disease 2019 (COVID-19)
+OT  - mucosal vaccine
+OT  - nisin
+COIS- There is no conflict of interest declared.
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:28
+CRDT- 2025/07/10 05:00
+PHST- 2025/07/10 06:28 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2024/10/24 00:00 [received]
+PHST- 2025/04/05 00:00 [accepted]
+PHST- 2025/07/10 05:00 [entrez]
+AID - 2024-110 [pii]
+AID - 10.12938/bmfh.2024-110 [doi]
+PST - ppublish
+SO  - Biosci Microbiota Food Health. 2025;44(3):227-234. doi: 10.12938/bmfh.2024-110. 
+      Epub 2025 Apr 21.
+"
+"
+PMID- 40636108
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250710
+LR  - 20250710
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 16
+DP  - 2025
+TI  - Progress in combination vaccines and the co-administration of influenza virus and 
+      SARS-CoV-2 vaccines.
+PG  - 1578733
+LID - 10.3389/fimmu.2025.1578733 [doi]
+AB  - COVID-19 and seasonal influenza have taken a huge toll on the global economy and 
+      global health. Given the potential of COVID-19 to transform into a chronic 
+      epidemic akin to seasonal influenza, the influenza virus and SARS-CoV-2 will 
+      continue to be a significant threat to healthcare for some time to come. 
+      Coinfection involving the two viruses has been proven to worsen the severity of 
+      the illness, as evidenced by clinical observational data. Vaccination remains the 
+      most effective measure in the prevention and treatment of infectious diseases. In 
+      addition, the coadministration of influenza virus and SARS-CoV-2 vaccines offered 
+      greater benefits than either vaccine alone. Combination vaccines are also a major 
+      hotspot in novel vaccine development. This review highlights the advancements in 
+      the development of combined vaccines for COVID-19 and seasonal influenza, as 
+      demonstrated in animal studies and clinical trials, and emphasizes the importance 
+      of a combined vaccine.
+CI  - Copyright (c) 2025 Hu, Niu, Li, He, Li, Gao, Wei, Sun, Zhao, Li, Xia, Ren, Li and 
+      Wang.
+FAU - Hu, Chengyu
+AU  - Hu C
+AD  - Henan Province Engineering Technology Research Center of Intelligent Diagnosis 
+      and Treatment, The First Affiliated Hospital, School of Basic Medicine Sciences, 
+      Henan University, Kaifeng, China.
+FAU - Niu, Chenguang
+AU  - Niu C
+AD  - Henan Province Engineering Technology Research Center of Intelligent Diagnosis 
+      and Treatment, The First Affiliated Hospital, School of Basic Medicine Sciences, 
+      Henan University, Kaifeng, China.
+FAU - Li, Xiaohui
+AU  - Li X
+AD  - Henan Province Engineering Technology Research Center of Intelligent Diagnosis 
+      and Treatment, The First Affiliated Hospital, School of Basic Medicine Sciences, 
+      Henan University, Kaifeng, China.
+FAU - He, Ke
+AU  - He K
+AD  - Institute of Traditional Chinese Medicine, School of Pharmacy, Henan University, 
+      Kaifeng, China.
+FAU - Li, Mengyu
+AU  - Li M
+AD  - Institute of Traditional Chinese Medicine, School of Pharmacy, Henan University, 
+      Kaifeng, China.
+FAU - Gao, Xiaonan
+AU  - Gao X
+AD  - Institute of Traditional Chinese Medicine, School of Pharmacy, Henan University, 
+      Kaifeng, China.
+FAU - Wei, Qiannan
+AU  - Wei Q
+AD  - Henan Province Engineering Technology Research Center of Intelligent Diagnosis 
+      and Treatment, The First Affiliated Hospital, School of Basic Medicine Sciences, 
+      Henan University, Kaifeng, China.
+FAU - Sun, Weiyang
+AU  - Sun W
+AD  - Changchun Veterinary Research Institute, Chinese Academy of Agricultural 
+      Sciences, Changchun, China.
+FAU - Zhao, Yongkun
+AU  - Zhao Y
+AD  - Changchun Veterinary Research Institute, Chinese Academy of Agricultural 
+      Sciences, Changchun, China.
+FAU - Li, Yuanguo
+AU  - Li Y
+AD  - Changchun Veterinary Research Institute, Chinese Academy of Agricultural 
+      Sciences, Changchun, China.
+FAU - Xia, Xianzhu
+AU  - Xia X
+AD  - Changchun Veterinary Research Institute, Chinese Academy of Agricultural 
+      Sciences, Changchun, China.
+AD  - Jiangsu Co-innovation Center for Prevention and Control of Important Animal 
+      Infectious Diseases and Zoonoses, Yangzhou University, Yangzhou, China.
+FAU - Ren, Zhiguang
+AU  - Ren Z
+AD  - Henan Province Engineering Technology Research Center of Intelligent Diagnosis 
+      and Treatment, The First Affiliated Hospital, School of Basic Medicine Sciences, 
+      Henan University, Kaifeng, China.
+AD  - Institute of Traditional Chinese Medicine, School of Pharmacy, Henan University, 
+      Kaifeng, China.
+AD  - Changchun Veterinary Research Institute, Chinese Academy of Agricultural 
+      Sciences, Changchun, China.
+FAU - Li, Xiaodong
+AU  - Li X
+AD  - Henan Province Engineering Technology Research Center of Intelligent Diagnosis 
+      and Treatment, The First Affiliated Hospital, School of Basic Medicine Sciences, 
+      Henan University, Kaifeng, China.
+FAU - Wang, Tiecheng
+AU  - Wang T
+AD  - Changchun Veterinary Research Institute, Chinese Academy of Agricultural 
+      Sciences, Changchun, China.
+AD  - Jiangsu Co-innovation Center for Prevention and Control of Important Animal 
+      Infectious Diseases and Zoonoses, Yangzhou University, Yangzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250625
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Influenza Vaccines)
+RN  - 0 (COVID-19 Vaccines)
+RN  - 0 (Vaccines, Combined)
+SB  - IM
+MH  - Humans
+MH  - *Influenza Vaccines/immunology/administration & dosage
+MH  - *COVID-19 Vaccines/immunology/administration & dosage
+MH  - *Influenza, Human/prevention & control/immunology
+MH  - *COVID-19/prevention & control/immunology
+MH  - *SARS-CoV-2/immunology
+MH  - Animals
+MH  - Vaccines, Combined/immunology/administration & dosage
+MH  - *Coinfection/prevention & control/immunology
+MH  - Clinical Trials as Topic
+PMC - PMC12238597
+OTO - NOTNLM
+OT  - SARS-CoV-2
+OT  - coadministration
+OT  - coinfection
+OT  - combination vaccines
+OT  - influenza virus
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:28
+CRDT- 2025/07/10 05:00
+PHST- 2025/07/10 06:28 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2025/02/18 00:00 [received]
+PHST- 2025/04/25 00:00 [accepted]
+PHST- 2025/07/10 05:00 [entrez]
+AID - 10.3389/fimmu.2025.1578733 [doi]
+PST - epublish
+SO  - Front Immunol. 2025 Jun 25;16:1578733. doi: 10.3389/fimmu.2025.1578733. 
+      eCollection 2025.
+"
+"
+PMID- 40635622
+OWN - NLM
+STAT- Publisher
+LR  - 20250710
+IS  - 1097-4598 (Electronic)
+IS  - 0148-639X (Linking)
+DP  - 2025 Jul 10
+TI  - COVID-19 Vaccination and Infection in Myasthenia Gravis: A Longitudinal Patient 
+      Survey.
+LID - 10.1002/mus.28466 [doi]
+AB  - INTRODUCTION/AIMS: Patients with myasthenia gravis (MG) often receive 
+      immunosuppressive treatments. While approved COVID-19 vaccines effectively 
+      prevent severe infections, the impact of vaccination among immunocompromised MG 
+      patients remains unclear. This study explored vaccination status, adverse events, 
+      and post-vaccination outcomes among MG patients. METHODS: A REDCap survey was 
+      conducted between September 21, 2021 and November 18, 2021 through the Myasthenia 
+      Gravis Foundation of America to collect data on demographic and disease 
+      characteristics, COVID-19 infections, vaccination status, and precaution 
+      strategies. A follow-up survey was available from January 11, 2022 to March 8, 
+      2022. RESULTS: A total of 1205 participants [65.7% female, average age 
+      59.6 +/- 15.4 years] completed the survey. Most were White or Caucasian (87.9%), 
+      63.6% held a bachelor's degree or higher, and 41.9% were retired. Acetylcholine 
+      receptor (AChR) antibody positivity was reported by 47%, MuSK-Ab positivity by 
+      6.1%, and 19.6% were seronegative. Most (75%) were on immunosuppressive therapy, 
+      and the vaccination rate was 91.5%. Among COVID-19 vaccine recipients, 61.5% 
+      reported adverse effects, while 8.5% of participants remained unvaccinated due to 
+      concerns about side effects (65%) and potential worsening of MG symptoms (70.9%). 
+      Post-vaccination COVID-19 infection rates dropped from 9.7% to 2.4%. 
+      Hospitalization decreased from 2.3% to 0.3%, and MG exacerbation rates from 5.5% 
+      to 1.4%. DISCUSSION: COVID-19 vaccination acceptance is high among MG patients. 
+      Reported side effects in MG patients were comparable to those in the general 
+      population, and vaccination was associated with a reduced COVID-19 infection 
+      rate. Addressing concerns about vaccine side effects and providing efficacy data 
+      specific to MG could aid unvaccinated individuals in decision-making.
+CI  - (c) 2025 Wiley Periodicals LLC.
+FAU - Li, Yingkai
+AU  - Li Y
+AUID- ORCID: 0000-0002-9019-3728
+AD  - Neuromuscular Division, Department of Neurology, Duke University Medical Center, 
+      Durham, North Carolina, USA.
+FAU - Muppidi, Srikanth
+AU  - Muppidi S
+AUID- ORCID: 0000-0002-2773-2506
+AD  - Department of Neurology, Stanford Medical Center, Stanford, California, USA.
+FAU - Unnithan, Shakthi
+AU  - Unnithan S
+AD  - Department of Biostatistics and Bioinformatics, Duke University School of 
+      Medicine, Durham, North Carolina, USA.
+FAU - Al-Khalidi, Hussein R
+AU  - Al-Khalidi HR
+AD  - Department of Biostatistics and Bioinformatics, Duke University School of 
+      Medicine, Durham, North Carolina, USA.
+FAU - Masterson, Samantha
+AU  - Masterson S
+AD  - Myasthenia Gravis Foundation of America, Westborough, Massachusetts, USA.
+FAU - Huff, Wendi
+AU  - Huff W
+AD  - Myasthenia Gravis Foundation of America, Westborough, Massachusetts, USA.
+FAU - Juel, Vern C
+AU  - Juel VC
+AD  - Neuromuscular Division, Department of Neurology, Duke University Medical Center, 
+      Durham, North Carolina, USA.
+FAU - Guptill, Jeffrey T
+AU  - Guptill JT
+AD  - Neuromuscular Division, Department of Neurology, Duke University Medical Center, 
+      Durham, North Carolina, USA.
+FAU - Raja, Shruti M
+AU  - Raja SM
+AUID- ORCID: 0000-0003-0216-1564
+AD  - Neuromuscular Division, Department of Neurology, Duke University Medical Center, 
+      Durham, North Carolina, USA.
+LA  - eng
+GR  - Myasthenia Gravis Foundation of America/
+PT  - Journal Article
+DEP - 20250710
+PL  - United States
+TA  - Muscle Nerve
+JT  - Muscle & nerve
+JID - 7803146
+SB  - IM
+OTO - NOTNLM
+OT  - COVID-19
+OT  - MG
+OT  - SARS-Cov-2
+OT  - infection
+OT  - myasthenia gravis
+OT  - pandemic
+OT  - vaccination
+OT  - vaccine
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:27
+CRDT- 2025/07/10 04:33
+PHST- 2025/07/10 06:27 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2025/06/22 00:00 [revised]
+PHST- 2024/09/25 00:00 [received]
+PHST- 2025/06/23 00:00 [accepted]
+PHST- 2025/07/10 04:33 [entrez]
+AID - 10.1002/mus.28466 [doi]
+PST - aheadofprint
+SO  - Muscle Nerve. 2025 Jul 10. doi: 10.1002/mus.28466.
+"
+"
+PMID- 40635444
+OWN - NLM
+STAT- Publisher
+LR  - 20250710
+IS  - 1468-2877 (Electronic)
+IS  - 0033-3549 (Linking)
+DP  - 2025 Jul 10
+TI  - Rocky Mountain West COVID-19 Modeling: A Descriptive Assessment of Public Health 
+      Needs During the COVID-19 Pandemic to Endemic Transition in Summer 2022.
+PG  - 333549251320909
+LID - 10.1177/00333549251320909 [doi]
+AB  - OBJECTIVES: Although federal funding for COVID-19 pandemic response measures has 
+      ended, opportunities remain to understand the needs of public health departments 
+      and the potential use of infectious disease models in the postacute pandemic 
+      response. We conducted semistructured interviews with public health 
+      representatives representing state, local, and regional/tribal public health 
+      departments in the Rocky Mountain West in summer 2022 to understand their 
+      COVID-19 priorities, decision-making needs, and data resources. METHODS: We 
+      interviewed representatives from 6 organizations representing 3 state, local, and 
+      regional/tribal public health departments in the Rocky Mountain West. RESULTS: 
+      From interviews, priorities included having timely information on vaccines, being 
+      able to anticipate COVID-19 demands on hospitals, understanding the potential 
+      effects of emerging variants, and communicating immunity concepts to the public. 
+      Decisions focused on making public health recommendations as opposed to mandates. 
+      Multiple interviewees reported limited access to timely COVID-19 data, challenges 
+      tracking COVID-19 hospitalizations, and a desire for communication tools on 
+      vaccinations and immunity. CONCLUSION: Although COVID-19 models can provide 
+      forecasts on hospital demand and project the effects of vaccines and variants in 
+      the endemic period, major gaps in data continue to challenge the public health 
+      response. Continued investments are needed in data and surveillance resources to 
+      respond to COVID-19 and to prepare for future pandemics.
+FAU - Quandelacy, Talia M
+AU  - Quandelacy TM
+AUID- ORCID: 0000-0002-4059-577X
+AD  - Department of Epidemiology, Colorado School of Public Health, University of 
+      Colorado Anschutz Medical Campus, Aurora, CO, USA.
+FAU - Kasarskis, Irina
+AU  - Kasarskis I
+AUID- ORCID: 0009-0003-5043-6304
+AD  - Department of Epidemiology, Colorado School of Public Health, University of 
+      Colorado Anschutz Medical Campus, Aurora, CO, USA.
+AD  - Department of Environmental and Occupational Health, Colorado School of Public 
+      Health, University of Colorado Anschutz Medical Campus, Aurora, CO, USA.
+FAU - Whitney, Kaitlyn
+AU  - Whitney K
+AD  - Department of Epidemiology, Colorado School of Public Health, University of 
+      Colorado Anschutz Medical Campus, Aurora, CO, USA.
+FAU - Wu, Emma J
+AU  - Wu EJ
+AUID- ORCID: 0000-0002-2003-5994
+AD  - Department of Environmental and Occupational Health, Colorado School of Public 
+      Health, University of Colorado Anschutz Medical Campus, Aurora, CO, USA.
+FAU - Carlton, Elizabeth J
+AU  - Carlton EJ
+AUID- ORCID: 0000-0002-8664-9606
+AD  - Department of Environmental and Occupational Health, Colorado School of Public 
+      Health, University of Colorado Anschutz Medical Campus, Aurora, CO, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20250710
+PL  - United States
+TA  - Public Health Rep
+JT  - Public health reports (Washington, D.C. : 1974)
+JID - 9716844
+SB  - IM
+OTO - NOTNLM
+OT  - COVID-19
+OT  - SARS-CoV-2
+OT  - pandemic
+OT  - public health practice
+OT  - surveillance
+EDAT- 2025/07/10 06:27
+MHDA- 2025/07/10 06:27
+CRDT- 2025/07/10 03:13
+PHST- 2025/07/10 06:27 [medline]
+PHST- 2025/07/10 06:27 [pubmed]
+PHST- 2025/07/10 03:13 [entrez]
+AID - 10.1177/00333549251320909 [doi]
+PST - aheadofprint
+SO  - Public Health Rep. 2025 Jul 10:333549251320909. doi: 10.1177/00333549251320909.
+"
+"
+PMID- 40634987
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250710
+LR  - 20250709
+IS  - 1743-422X (Electronic)
+IS  - 1743-422X (Linking)
+VI  - 22
+IP  - 1
+DP  - 2025 Jul 9
+TI  - Exploring co-infection dynamics and immune response interactions between COVID-19 
+      and Monkeypox: implications for disease severity, viral transmission, and vaccine 
+      efficacy.
+PG  - 230
+LID - 10.1186/s12985-025-02857-w [doi]
+AB  - BACKGROUND: Coronavirus disease (COVID-19) and Monkeypox (Mpox) are viral 
+      infections that have similar modes of presentation, diagnosis and treatment 
+      strategies. Understanding their co-infection dynamics and immune response is 
+      important for public health policies. AIM: This article aims to determine the 
+      relationship between dynamicity and immune response interactions between Mpox and 
+      COVID-19, focusing more on the implications for disease severity, viral 
+      transmission, and vaccine efficacy. METHODOLOGY: An extensive literature review 
+      was conducted through electronic databases including PubMed, Google Scholar and 
+      Web of Science from the last decade (2014-2024) using keywords: COVID-19, 
+      Co-infections, Immune response, Monkeypox, and Vaccination. RESULTS: Several 
+      co-infections between COVID-19 and Mpox have been reported, especially a case 
+      from Florida, in the United States of America (USA), in Barcelona, Spain (a 
+      56-year-old man who suffered both Mpox and COVID-19 and syphilis simultaneously, 
+      and from Italy (a 36-year-old male). Both COVID-19 and Mpox have been shown to 
+      have some effects on the immunity of a person, especially the innate system, 
+      which can occasionally produce inadvertent effects. A common factor that links 
+      the two diseases is the endoglycosidase named Heparanase (HPSE). Both COVID-19 
+      and Mpox clinical features have bizarre severity and complications. The rising 
+      co-infection of COVID-19 and increased Mpox infection rate has led to the 
+      development of only approved vaccines JYNNEOS and COH04S1. CONCLUSION: Global 
+      efforts such as adequate awareness campaigns through webinars, social media 
+      platforms, and research, including experimental studies, cohort studies, case 
+      series, etc., should be put in place to give more insights into both diseases. 
+      Such efforts should be backed up with good political will, adequate funding, the 
+      establishment of research facilities and interprofessional measures among the 
+      concerned countries and policymakers in the world.
+CI  - (c) 2025. The Author(s).
+FAU - Ayo-Farai, Oluwatoyin
+AU  - Ayo-Farai O
+AD  - College of Public Health, Georgia Southern University, Georgia, USA.
+FAU - Gopep, Nenrot
+AU  - Gopep N
+AD  - College of Public Health, Georgia Southern University, Georgia, USA.
+FAU - Alarape-Raji, Aminat
+AU  - Alarape-Raji A
+AD  - Department of Medicine, Beth Israel Lahey Hospital- Beverly Hospital Campus, 
+      Boston, MA, USA.
+FAU - Adnan, Huda
+AU  - Adnan H
+AD  - Department of Medicine, Jinnah Sindh Medical University, Karachi, Pakistan.
+FAU - Ahmed, Maryam
+AU  - Ahmed M
+AD  - Department of Medicine, Jinnah Sindh Medical University, Karachi, Pakistan.
+FAU - Arif, Rida
+AU  - Arif R
+AD  - Department of Medicine, Jinnah Sindh Medical University, Karachi, Pakistan.
+FAU - Kashif, Eisha
+AU  - Kashif E
+AD  - Department of Medicine, Jinnah Sindh Medical University, Karachi, Pakistan.
+FAU - Oduoye, Malik Olatunde
+AU  - Oduoye MO
+AD  - Department of Research, The Medical Research Circle (MedReC), Democratic Republic 
+      of Congo (DRC), Goma, Congo. malikolatunde36@gmail.com.
+FAU - Haider, Muhammad Usman
+AU  - Haider MU
+AD  - Geisinger Health System, Wilkes-barre, PA, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250709
+PL  - England
+TA  - Virol J
+JT  - Virology journal
+JID - 101231645
+SB  - IM
+MH  - Humans
+MH  - *COVID-19/immunology/transmission/prevention & control/epidemiology/virology
+MH  - *Coinfection/immunology/virology
+MH  - SARS-CoV-2/immunology
+MH  - *Mpox, Monkeypox/immunology/transmission/prevention & 
+      control/epidemiology/virology
+MH  - Vaccine Efficacy
+MH  - Severity of Illness Index
+MH  - Male
+MH  - Middle Aged
+OTO - NOTNLM
+OT  - COVID-19
+OT  - Co-infections
+OT  - Immune response
+OT  - Monkeypox
+OT  - Vaccination
+COIS- Declarations. Ethical approval and consent for participation: Not applicable. 
+      Consent for publication: Not applicable. Transparency statement: All the authors 
+      have approved the submitted version and have agreed both to be personally 
+      accountable for their contributions and to ensure that questions related to the 
+      accuracy or integrity of any part of the work, even ones in which they are not 
+      personally involved, are appropriately investigated, resolved, and the resolution 
+      documented in the literature. Provenance and peer review: Not commissioned, 
+      externally peer-reviewed. Declaration of generative AI and AI-assisted 
+      technologies in the writing process: There is nothing to disclose. Competing 
+      interests: The authors declare no competing interests.
+EDAT- 2025/07/10 00:35
+MHDA- 2025/07/10 06:27
+CRDT- 2025/07/09 23:49
+PHST- 2025/04/28 00:00 [received]
+PHST- 2025/07/01 00:00 [accepted]
+PHST- 2025/07/10 06:27 [medline]
+PHST- 2025/07/10 00:35 [pubmed]
+PHST- 2025/07/09 23:49 [entrez]
+AID - 10.1186/s12985-025-02857-w [pii]
+AID - 10.1186/s12985-025-02857-w [doi]
+PST - epublish
+SO  - Virol J. 2025 Jul 9;22(1):230. doi: 10.1186/s12985-025-02857-w.
+"

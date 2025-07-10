@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "pubmed-search-tool"
+version = "0.1.0"
+description = ""
+authors = ["Hinduja J <you@example.com>"]
+readme = "README.md"
+packages = [
+    { include = "pubmed_search" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+requests = "^2.32.4"
+pandas = "^2.3.1"
+biopython = "^1.85"
+typer = "^0.16.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+get-papers-list = "cli.main:app"
